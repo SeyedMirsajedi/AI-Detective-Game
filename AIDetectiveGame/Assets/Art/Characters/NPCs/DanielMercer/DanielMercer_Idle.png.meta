@@ -1,0 +1,535 @@
+fileFormatVersion: 2
+guid: 608b3ad58302ba34990b7a279b89cec0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2133771720268690499
+    second: output-onlinepngtools (19)_0
+  - first:
+      213: 2938382123240004991
+    second: output-onlinepngtools (19)_1
+  - first:
+      213: -2658150587461098616
+    second: output-onlinepngtools (19)_2
+  - first:
+      213: 7954966997355398636
+    second: output-onlinepngtools (19)_3
+  - first:
+      213: -8546833455423514893
+    second: output-onlinepngtools (19)_4
+  - first:
+      213: 3607590491885307226
+    second: output-onlinepngtools (19)_5
+  - first:
+      213: -3856220618461573629
+    second: output-onlinepngtools (19)_6
+  - first:
+      213: -1075151338818150465
+    second: output-onlinepngtools (19)_7
+  - first:
+      213: -3145051656907273961
+    second: output-onlinepngtools (19)_8
+  - first:
+      213: 1500302516917161587
+    second: output-onlinepngtools (19)_9
+  - first:
+      213: -80877858087942020
+    second: output-onlinepngtools (19)_10
+  - first:
+      213: 5144914351554679939
+    second: output-onlinepngtools (19)_11
+  - first:
+      213: 8113444717955860061
+    second: output-onlinepngtools (19)_12
+  - first:
+      213: -8727361792519360673
+    second: output-onlinepngtools (19)_13
+  - first:
+      213: 8134455600054477228
+    second: output-onlinepngtools (19)_14
+  - first:
+      213: 6245715535735201629
+    second: output-onlinepngtools (19)_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 115
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 0
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DanielMercer_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 477
+        width: 107
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 345d07c53b9e0bf40b0974a35072bf6e
+      internalID: -683599263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 477
+        width: 107
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c800ba11a875cf49b78bab513c4c299
+      internalID: -2092658136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 477
+        width: 107
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 501cc7dde911af54f830d4e49b14d553
+      internalID: 2142093717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 477
+        width: 108
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d1df8342751ee947b193e74fc69ab9b
+      internalID: -1118767234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 477
+        width: 106
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62d0ab5ff743ea54fa6f2d03a8d99de2
+      internalID: -1270754240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 1116
+        y: 477
+        width: 107
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7113e9e09bbe40d47a3a9280cff1febe
+      internalID: -184437867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 1328
+        y: 477
+        width: 107
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278be7d4709ce91478a539840a0b0082
+      internalID: -775124426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 477
+        width: 106
+        height: 397
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36e1fc451f281a44f9fb1bdafd5c362f
+      internalID: -1978522702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 25
+        width: 97
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872e88d79ad0af04a9862d2733e78bba
+      internalID: -1880553720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 25
+        width: 96
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec735067c1b7e8142874ddb6663d74f1
+      internalID: -2027054586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 25
+        width: 98
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62abdb2acf1cfb1468b0fb82040a21a1
+      internalID: -1654445508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 25
+        width: 97
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b62178b4629dd449c2dd72c631a34b
+      internalID: 530276930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 25
+        width: 96
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 663f3055ff5ea3941a89fd0145e67f87
+      internalID: 1517015512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 25
+        width: 96
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9e74a241524f654d8003a58add9ac4c
+      internalID: 26525278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 25
+        width: 96
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd8bfcea6351f504991398a9c6893dac
+      internalID: -1270468701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: DanielMercer_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 25
+        width: 97
+        height: 398
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2e1d070cd7f380458ff7ff815e5a8c9
+      internalID: 277301755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d264a01abf689a1479808a040bac6c46
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      DanielMercer_Idle_0: -683599263
+      DanielMercer_Idle_1: -2092658136
+      DanielMercer_Idle_10: -1654445508
+      DanielMercer_Idle_11: 530276930
+      DanielMercer_Idle_12: 1517015512
+      DanielMercer_Idle_13: 26525278
+      DanielMercer_Idle_14: -1270468701
+      DanielMercer_Idle_15: 277301755
+      DanielMercer_Idle_2: 2142093717
+      DanielMercer_Idle_3: -1118767234
+      DanielMercer_Idle_4: -1270754240
+      DanielMercer_Idle_5: -184437867
+      DanielMercer_Idle_6: -775124426
+      DanielMercer_Idle_7: -1978522702
+      DanielMercer_Idle_8: -1880553720
+      DanielMercer_Idle_9: -2027054586
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

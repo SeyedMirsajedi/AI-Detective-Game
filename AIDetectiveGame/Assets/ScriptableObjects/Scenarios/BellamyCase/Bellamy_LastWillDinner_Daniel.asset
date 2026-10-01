@@ -1,0 +1,197 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c3694cb464f83b4db33829bc936d73c, type: 3}
+  m_Name: Bellamy_LastWillDinner_Daniel
+  m_EditorClassIdentifier: Assembly-CSharp::ScenarioDefinition
+  scenarioId: bellamy_last_will_daniel_v1
+  title: The Last Will Dinner
+  victimName: Edmund Bellamy
+  victimAge: 68
+  culprit: {fileID: 11400000, guid: 7bae6e6272a99194d8b3b79250c741b8, type: 2}
+  motive: Edmund discovered Daniel's financial fraud and intended to expose him.
+  weaponAndMethod: Daniel killed Edmund with a heavy brass bookend in the Study,
+    then disturbed documents and staged the scene.
+  crimeRoom: 2
+  crimeWindow: Approximately 9:22 PM
+  caseFacts:
+  - {fileID: 11400000, guid: 2e987dc32e1bbac4eb236e86144e39f8, type: 2}
+  - {fileID: 11400000, guid: 6d5d241d8263cf347b78bd6b9770e92b, type: 2}
+  - {fileID: 11400000, guid: 1e7851f22eee466498f3fc2b7f47f64a, type: 2}
+  - {fileID: 11400000, guid: 58b57788fd4fe3b40a3c8bbcbaa52fba, type: 2}
+  - {fileID: 11400000, guid: 3ae40a632bd517544a840c3ea50ef9d5, type: 2}
+  - {fileID: 11400000, guid: d0e127352cb657b49aeabe3f53f89daa, type: 2}
+  - {fileID: 11400000, guid: 942d7ae1af09db7439f38352777efcfd, type: 2}
+  - {fileID: 11400000, guid: 0f54c5047cda8fd4a9a4569e61a4d253, type: 2}
+  - {fileID: 11400000, guid: cca31ea6e35ca6544a4ea42ef85ea3a4, type: 2}
+  - {fileID: 11400000, guid: 9dc193700df9ab6488b5b4068b06d425, type: 2}
+  - {fileID: 11400000, guid: 6586c04fef993564ab79e59aab7f9978, type: 2}
+  - {fileID: 11400000, guid: eed6d705627dc8b4caf571ad92f7af9c, type: 2}
+  - {fileID: 11400000, guid: e2f34878d1f3880488ffd6d0f1f99e89, type: 2}
+  - {fileID: 11400000, guid: 54ee419ef40e5d54db968d660da9ac39, type: 2}
+  - {fileID: 11400000, guid: 27d39c28e759d7747a8dc32b6daaec0f, type: 2}
+  - {fileID: 11400000, guid: 755882ef605b91b48bbccad1af29baab, type: 2}
+  - {fileID: 11400000, guid: 354faca25b6d7734ab94bd5592a00ecf, type: 2}
+  requiredEvidence:
+  - {fileID: 11400000, guid: 164bfbd7321ed3748bbc7ac7204b60f4, type: 2}
+  - {fileID: 11400000, guid: 6d13a78b5bbdcb7498ad6e50a845a308, type: 2}
+  - {fileID: 11400000, guid: 455483ed73574e249aa4191493cc88fa, type: 2}
+  - {fileID: 11400000, guid: 3bc19a3bfdd0fdb4c9ccc0c2298aa11e, type: 2}
+  - {fileID: 11400000, guid: 7227462e87bd9fe4bbaa71cd5f1b7b3d, type: 2}
+  - {fileID: 11400000, guid: 8033f2b69c25bc54784cd7be94ddca77, type: 2}
+  accusationGateEvidence:
+  - {fileID: 11400000, guid: 164bfbd7321ed3748bbc7ac7204b60f4, type: 2}
+  - {fileID: 11400000, guid: 6d13a78b5bbdcb7498ad6e50a845a308, type: 2}
+  - {fileID: 11400000, guid: 455483ed73574e249aa4191493cc88fa, type: 2}
+  - {fileID: 11400000, guid: 3bc19a3bfdd0fdb4c9ccc0c2298aa11e, type: 2}
+  minimumAccusationEvidenceCount: 2
+  correctResolutionSummary: 'Daniel Mercer killed Edmund Bellamy.
+
+    
+
+    Edmund
+    had discovered Daniel''s financial fraud and intended to expose him the following
+    morning.
+
+    
+
+    Daniel confronted Edmund in the Study. When Edmund refused
+    to protect him, Daniel killed him with the heavy brass bookend.
+
+    
+
+    Daniel
+    then attempted to conceal the financial motive and disturbed the document area
+    to make the scene misleading.
+
+    
+
+    The evidence and witness information
+    ultimately connected Daniel to the Study and the critical time surrounding Edmund''s
+    death.'
+  failedResolutionSummary: 'Your accusation was incorrect.
+
+    
+
+    The evidence
+    did not support your conclusion, and the case of Edmund Bellamy''s death remains
+    unresolved.'
+  roomContentDefinitions:
+  - {fileID: 11400000, guid: e359ccd78ca44594ab8023fa32ca1458, type: 2}
+  - {fileID: 11400000, guid: 4a5a1011c340b5341837640372f0eec2, type: 2}
+  - {fileID: 11400000, guid: 7e01f1cd5e962c449a089f01ea7882dc, type: 2}
+  - {fileID: 11400000, guid: 918aaca924db77d4fa196faf12f600bf, type: 2}
+  - {fileID: 11400000, guid: de85976641c9fef438230342a45aa9e6, type: 2}
+  - {fileID: 11400000, guid: 2edec390422597d45bc2c61cbd9b622c, type: 2}
+  initialRoomAccess:
+  - roomId: 0
+    initiallyUnlocked: 1
+  - roomId: 1
+    initiallyUnlocked: 1
+  - roomId: 3
+    initiallyUnlocked: 1
+  - roomId: 4
+    initiallyUnlocked: 1
+  - roomId: 5
+    initiallyUnlocked: 1
+  - roomId: 2
+    initiallyUnlocked: 0
+  npcProfiles:
+  - npcDefinition: {fileID: 11400000, guid: 56b312440280bb94585d799cbad55c7d, type: 2}
+    startingRoom: 0
+    spawnPointId: living_evelyn
+    knownFacts:
+    - {fileID: 11400000, guid: 2e987dc32e1bbac4eb236e86144e39f8, type: 2}
+    - {fileID: 11400000, guid: 6586c04fef993564ab79e59aab7f9978, type: 2}
+    - {fileID: 11400000, guid: 54ee419ef40e5d54db968d660da9ac39, type: 2}
+    privateFacts:
+    - {fileID: 11400000, guid: e2f34878d1f3880488ffd6d0f1f99e89, type: 2}
+    falseBeliefs: []
+    allowedLieOrEvasionNotes: Generally cooperative. She may hesitate when discussion
+      reaches Adrian's financial problems because she is hiding the fact that she
+      has been helping him financially.
+    temporaryHardCodedResponse: I'll help if I can, Detective. This has been a terrible
+      evening, and I'm trying to remember everything clearly.
+  - npcDefinition: {fileID: 11400000, guid: 7bae6e6272a99194d8b3b79250c741b8, type: 2}
+    startingRoom: 1
+    spawnPointId: dining_npc_main
+    knownFacts:
+    - {fileID: 11400000, guid: 2e987dc32e1bbac4eb236e86144e39f8, type: 2}
+    privateFacts:
+    - {fileID: 11400000, guid: 58b57788fd4fe3b40a3c8bbcbaa52fba, type: 2}
+    - {fileID: 11400000, guid: 1e7851f22eee466498f3fc2b7f47f64a, type: 2}
+    - {fileID: 11400000, guid: 3ae40a632bd517544a840c3ea50ef9d5, type: 2}
+    - {fileID: 11400000, guid: d0e127352cb657b49aeabe3f53f89daa, type: 2}
+    - {fileID: 11400000, guid: 0f54c5047cda8fd4a9a4569e61a4d253, type: 2}
+    - {fileID: 11400000, guid: cca31ea6e35ca6544a4ea42ef85ea3a4, type: 2}
+    falseBeliefs: []
+    allowedLieOrEvasionNotes: Daniel should remain controlled and professional. He
+      may evade questions about company finances and falsely claim that he never
+      entered the Study.
+    temporaryHardCodedResponse: Of course, Detective. I'll answer what I can. I never
+      went into the Study tonight.
+  - npcDefinition: {fileID: 11400000, guid: 9caf650e80c75824a98635ad24e114aa, type: 2}
+    startingRoom: 5
+    spawnPointId: adrian_npc_adrian
+    knownFacts:
+    - {fileID: 11400000, guid: 2e987dc32e1bbac4eb236e86144e39f8, type: 2}
+    - {fileID: 11400000, guid: 6d5d241d8263cf347b78bd6b9770e92b, type: 2}
+    privateFacts:
+    - {fileID: 11400000, guid: 6586c04fef993564ab79e59aab7f9978, type: 2}
+    - {fileID: 11400000, guid: eed6d705627dc8b4caf571ad92f7af9c, type: 2}
+    falseBeliefs: []
+    allowedLieOrEvasionNotes: Defensive and sarcastic when questioned about money
+      or his argument with Edmund. He may initially avoid discussing his debt and
+      the pawned family heirloom.
+    temporaryHardCodedResponse: Ask what you need, Detective. My father and I argued,
+      but that doesn't make me responsible for what happened.
+  - npcDefinition: {fileID: 11400000, guid: 5fbce395cd318be4786a3ff7be3ad048, type: 2}
+    startingRoom: 3
+    spawnPointId: kitchen_anna
+    knownFacts:
+    - {fileID: 11400000, guid: 9dc193700df9ab6488b5b4068b06d425, type: 2}
+    - {fileID: 11400000, guid: 942d7ae1af09db7439f38352777efcfd, type: 2}
+    - {fileID: 11400000, guid: 354faca25b6d7734ab94bd5592a00ecf, type: 2}
+    - {fileID: 11400000, guid: 6586c04fef993564ab79e59aab7f9978, type: 2}
+    privateFacts: []
+    falseBeliefs: []
+    allowedLieOrEvasionNotes: Anna is practical and truthful. She must not identify
+      the second person in the argument because she genuinely did not know who it
+      was.
+    temporaryHardCodedResponse: I heard Mr. Bellamy arguing with someone in the Study
+      not long before I found him, but I couldn't tell who the other person was.
+      I've kept the Study closed since then, but I can unlock it for you now, Detective.
+  - npcDefinition: {fileID: 11400000, guid: d7fd2116d96c29f40b2917385cd3d954, type: 2}
+    startingRoom: 1
+    spawnPointId: dining_npc_secondary
+    knownFacts:
+    - {fileID: 11400000, guid: 27d39c28e759d7747a8dc32b6daaec0f, type: 2}
+    privateFacts:
+    - {fileID: 11400000, guid: 755882ef605b91b48bbccad1af29baab, type: 2}
+    falseBeliefs: []
+    allowedLieOrEvasionNotes: Direct and business-focused. She may be reluctant to
+      discuss her plans to leave the company but can acknowledge that financial records
+      had raised concerns.
+    temporaryHardCodedResponse: There had been some tension at the company, Detective,
+      but I don't know what happened in the Study.
+  progressionRules:
+  - ruleId: rule_anna_initial_conversation
+    triggerNpc: {fileID: 11400000, guid: 5fbce395cd318be4786a3ff7be3ad048, type: 2}
+    requireInitialMeaningfulConversation: 1
+    authoredClosingReveal: Detective, before you go... there is something I should
+      tell you. The Study has been kept locked since Mr. Bellamy was found, so nothing
+      inside would be disturbed. I heard him arguing with someone in there shortly
+      before his death, but I couldn't identify the other person. I think you should
+      examine the room yourself now. I'll unlock it for you.
+    unlockRoom: 1
+    roomToUnlock: 2
+    discoverClue: 1
+    clueToDiscover: {fileID: 11400000, guid: 7227462e87bd9fe4bbaa71cd5f1b7b3d, type: 2}

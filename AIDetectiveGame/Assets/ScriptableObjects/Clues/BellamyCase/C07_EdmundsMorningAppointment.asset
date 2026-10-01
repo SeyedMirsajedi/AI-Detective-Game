@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9bb1d93d6c2e3c448d5d573629e8249, type: 3}
+  m_Name: C07_EdmundsMorningAppointment
+  m_EditorClassIdentifier: Assembly-CSharp::ClueDefinition
+  clueId: C07_morning_appointment
+  displayName: Edmund's Morning Appointment
+  description: A written appointment shows that Edmund planned to meet the following
+    morning to formally address the financial irregularities he had been investigating.

@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: 1e589ba1e10163a45b06a525b1d6fc25
+  - enabled: 1
+    path: Assets/Scenes/LivingRoom.unity
+    guid: 34cfe7cc9c0af1f4aa35ed3ab6f8ca8f
+  - enabled: 1
+    path: Assets/Scenes/HouseMap.unity
+    guid: 190a8790bcb1e31479d49b7ce130749d
+  - enabled: 1
+    path: Assets/Scenes/DiningRoom.unity
+    guid: 3a729c54aa5dc7d48a0add6f168c2067
+  - enabled: 1
+    path: Assets/Scenes/Study.unity
+    guid: 45823292508519e44b5bdd0dd0998250
+  - enabled: 1
+    path: Assets/Scenes/Kitchen.unity
+    guid: 6a6b962bc6e12c348a2acc58221ab668
+  - enabled: 1
+    path: Assets/Scenes/MasterBedroom.unity
+    guid: b7f664feab4220e4ab589105b9931d89
+  - enabled: 1
+    path: Assets/Scenes/AdrianBedroom.unity
+    guid: dc9d1150487a3e248a44657ab31eaf49
+  - enabled: 0
+    path: Assets/Scenes/SampleScene.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
+  m_UseUCBPForAssetBundles: 0

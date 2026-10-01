@@ -1,0 +1,141 @@
+# ============================================================
+# AI Detective Game - Repository Ignore Rules
+# Repository contains:
+#   AIDetectiveGame          -> Unity project
+#   AIDetectiveGame.Backend  -> ASP.NET Core backend
+# ============================================================
+
+
+# ------------------------------------------------------------
+# University report
+# Keep the report completely outside this Git repository.
+# ------------------------------------------------------------
+
+/AIDetectiveGame.Report/
+
+
+# ------------------------------------------------------------
+# Unity - generated/local folders
+# ------------------------------------------------------------
+
+/AIDetectiveGame/[Ll]ibrary/
+/AIDetectiveGame/[Tt]emp/
+/AIDetectiveGame/[Oo]bj/
+/AIDetectiveGame/[Bb]uild/
+/AIDetectiveGame/[Bb]uilds/
+/AIDetectiveGame/[Ll]ogs/
+/AIDetectiveGame/[Uu]ser[Ss]ettings/
+/AIDetectiveGame/[Mm]emoryCaptures/
+/AIDetectiveGame/[Rr]ecordings/
+
+
+# ------------------------------------------------------------
+# Unity - IDE/editor generated files
+# ------------------------------------------------------------
+
+/AIDetectiveGame/.vs/
+/AIDetectiveGame/.idea/
+/AIDetectiveGame/.gradle/
+
+/AIDetectiveGame/*.csproj
+/AIDetectiveGame/*.unityproj
+/AIDetectiveGame/*.sln
+/AIDetectiveGame/*.slnx
+/AIDetectiveGame/*.suo
+/AIDetectiveGame/*.tmp
+/AIDetectiveGame/*.user
+/AIDetectiveGame/*.userprefs
+/AIDetectiveGame/*.pidb
+/AIDetectiveGame/*.booproj
+/AIDetectiveGame/*.svd
+/AIDetectiveGame/*.pdb
+/AIDetectiveGame/*.mdb
+/AIDetectiveGame/*.opendb
+/AIDetectiveGame/*.VC.db
+
+
+# ------------------------------------------------------------
+# Unity - generated miscellaneous files
+# ------------------------------------------------------------
+
+/AIDetectiveGame/ExportedObj/
+/AIDetectiveGame/sysinfo.txt
+/AIDetectiveGame/mono_crash.*
+
+/AIDetectiveGame/*.apk
+/AIDetectiveGame/*.aab
+/AIDetectiveGame/*.unitypackage
+/AIDetectiveGame/*.app
+
+
+# Unity Visual Scripting generated data
+/AIDetectiveGame/Assets/Unity.VisualScripting.Generated/
+
+
+# Unity Addressables generated data, if used later
+/AIDetectiveGame/ServerData/
+
+
+# ------------------------------------------------------------
+# IMPORTANT:
+# Do NOT ignore Unity .meta files.
+#
+# Assets/, Packages/, ProjectSettings/, and their required
+# .meta files should remain available to Git.
+# ------------------------------------------------------------
+
+
+# ------------------------------------------------------------
+# ASP.NET Core / .NET generated folders
+# ------------------------------------------------------------
+
+/AIDetectiveGame.Backend/[Bb]in/
+/AIDetectiveGame.Backend/[Oo]bj/
+/AIDetectiveGame.Backend/.vs/
+/AIDetectiveGame.Backend/.idea/
+
+
+# ------------------------------------------------------------
+# .NET / Visual Studio user-specific files
+# ------------------------------------------------------------
+
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.rsuser
+
+
+# ------------------------------------------------------------
+# Test/build generated files
+# ------------------------------------------------------------
+
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+*.trx
+artifacts/
+.artifacts/
+
+
+# ------------------------------------------------------------
+# Local secret/environment files
+# ------------------------------------------------------------
+
+.env
+.env.*
+!.env.example
+
+secrets.json
+*.pfx
+*.publishsettings
+
+
+# ------------------------------------------------------------
+# OS/editor temporary files
+# ------------------------------------------------------------
+
+.DS_Store
+Thumbs.db
+Desktop.ini
+~$*
+*~

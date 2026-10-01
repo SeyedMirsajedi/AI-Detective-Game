@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001eb31cab831b344a949e6ef617f252, type: 3}
+  m_Name: Bellamy_DiningRoom
+  m_EditorClassIdentifier: Assembly-CSharp::RoomContentDefinition
+  roomId: 1
+  cluePlacements: []
+  containerPlacements:
+  - spawnPointId: dining_briefcase
+    containerPrefab: {fileID: 2560022567117714107, guid: 1867328f79a49e845b76c584fc37960f, type: 3}
+  environmentVariantSelections: []

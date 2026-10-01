@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 001eb31cab831b344a949e6ef617f252, type: 3}
+  m_Name: Bellamy_Study
+  m_EditorClassIdentifier: Assembly-CSharp::RoomContentDefinition
+  roomId: 2
+  cluePlacements:
+  - spawnPointId: study_bookend
+    worldCluePrefab: {fileID: 2222948175473396837, guid: 6a25e04cf12e41245959cbdae443fe33, type: 3}
+  - spawnPointId: study_cufflink
+    worldCluePrefab: {fileID: 5783128997956780674, guid: c1f88f1b0a8336e4ab2262ab5aa6e27b, type: 3}
+  containerPlacements:
+  - spawnPointId: study_filing_drawer
+    containerPrefab: {fileID: 4419894904054638698, guid: 7a54346c6bddd1a439bb291f7f440176, type: 3}
+  environmentVariantSelections:
+  - variantGroupId: study_document_area
+    variantId: disturbed
+    enabled: 1

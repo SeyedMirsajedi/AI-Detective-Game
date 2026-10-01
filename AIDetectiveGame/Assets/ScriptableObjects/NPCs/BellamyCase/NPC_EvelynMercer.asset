@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 48ba3188985e7de4bbfd7d3f1a6fbc8d, type: 3}
+  m_Name: NPC_EvelynMercer
+  m_EditorClassIdentifier: Assembly-CSharp::NpcDefinition
+  npcId: npc_evelyn_mercer
+  displayName: Evelyn Mercer
+  age: 36
+  role: Edmund's daughter; Daniel's wife
+  worldPrefab: {fileID: 4145843275627614043, guid: 4bd6915df463a8f4aad31edfbbaf12f0, type: 3}
+  portrait: {fileID: 21300000, guid: 38871160fcb31ea41b8f042d8ce7d2e4, type: 3}
+  defaultMaxQuestions: 5
+  defaultMaxPlayerCharacters: 500

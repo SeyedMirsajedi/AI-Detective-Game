@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9bb1d93d6c2e3c448d5d573629e8249, type: 3}
+  m_Name: C05_AnnasOverheardArgument
+  m_EditorClassIdentifier: Assembly-CSharp::ClueDefinition
+  clueId: C05_anna_overheard_argument
+  displayName: Anna's Overheard Argument
+  description: Anna heard Edmund arguing with another person in the Study shortly
+    before his death. She could not identify the other person.
