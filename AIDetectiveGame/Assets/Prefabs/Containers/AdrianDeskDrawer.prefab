@@ -155,7 +155,7 @@ MonoBehaviour:
   displayName: Adrian's desk drawer
   interactionMode: 1
   holdDuration: 1
-  initiallyLocked: 1
+  initiallyLocked: 0
   clueContents:
   - {fileID: 11400000, guid: f9fb7f4171b801045b200e85f7d1ae47, type: 2}
   visualRenderer: {fileID: 1078097124765707062}
