@@ -506,21 +506,6 @@ The LLM is not consulted when deciding whether the accusation is correct.
 
 ## Screenshots
 
-Create the following folder inside the repository:
-
-```text
-docs/images/
-```
-
-Then add screenshots with these names:
-
-```text
-dialogue.png
-house-map.png
-notebook.png
-final-accusation.png
-```
-
 ### Free-form NPC Dialogue
 
 ![Dialogue System](docs/images/dialogue.png)
