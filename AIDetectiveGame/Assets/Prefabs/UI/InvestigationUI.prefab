@@ -12246,6 +12246,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 3580955492858548929}
     m_Modifications:
+    - target: {fileID: 7478240323076445782, guid: 3480244120d88f9448719dac3aac2a5f, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7694923624853330534, guid: 3480244120d88f9448719dac3aac2a5f, type: 3}
       propertyPath: m_Name
       value: SettingsPanel

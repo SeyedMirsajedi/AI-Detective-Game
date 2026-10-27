@@ -1514,6 +1514,10 @@ PrefabInstance:
       propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
       value: 
       objectReference: {fileID: 288764973}
+    - target: {fileID: 7478240323076445782, guid: 3480244120d88f9448719dac3aac2a5f, type: 3}
+      propertyPath: m_text
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7694923624853330534, guid: 3480244120d88f9448719dac3aac2a5f, type: 3}
       propertyPath: m_Name
       value: SettingsPanel
